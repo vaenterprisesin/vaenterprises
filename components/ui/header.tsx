@@ -12,7 +12,7 @@ export default function Header() {
           <div className="shrink-0 mr-4">
             {/* Logo */}
             <Link href="/" className="block" aria-label="Cruip">
-                <Image className="w-10 h-10 rounded-full" src={Logo}  alt="VA Enterprises Logo" />
+                <Image className="w-12 h-12 rounded-full" src={Logo}  alt="VA Enterprises Logo" />
             </Link>
           </div>
 
@@ -25,12 +25,12 @@ export default function Header() {
                   href="/signin"
                   className="font-medium text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out"
                 >
-                  Sign in
+                  Sign ins
                 </Link>
               </li>
               <li>
                 <Link href="/signup" className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3">
-                  Sign up
+                  Sign ups
                 </Link>
               </li>
             </ul>
