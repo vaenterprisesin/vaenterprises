@@ -6,8 +6,8 @@ export default function Blocks() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">VA Enterprises is a leading company in the industry, committed to delivering top-quality products and services. Our team of professionals is dedicated to ensuring customer satisfaction and excellence in every project.</h2>
-            <p className="text-xl text-gray-400">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+             <h2 className="h2 mb-4">VA Enterprises</h2>
+            <p className="text-xl text-gray-400">VA Enterprises is a leading company in the industry, committed to delivering top-quality products and services. Our team of professionals is dedicated to ensuring customer satisfaction and excellence in every project.</p>
           </div>
 
           {/* Items */}
