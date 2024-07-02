@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import MobileMenu from './mobile-menu'
 import Logo from '@/public/images/logo.png'  
+import Image from 'next/image'
 
 export default function Header() {
   return (
@@ -11,7 +12,7 @@ export default function Header() {
           <div className="shrink-0 mr-4">
             {/* Logo */}
             <Link href="/" className="block" aria-label="Cruip">
-                <Image className="rounded-full" src={Logo}  alt="VA Enterprises Logo" />
+                <Image className="w-8 h-8 rounded-full" src={Logo}  alt="VA Enterprises Logo" />
             </Link>
           </div>
 
