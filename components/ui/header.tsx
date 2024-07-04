@@ -17,9 +17,9 @@ export default function Header() {
           </div>
 
           {/* Desktop navigation */}
-{/*           <nav className="hidden md:flex md:grow">
+          <nav className="hidden md:flex md:grow">
             {/* Desktop sign in links */}
-            <ul className="flex grow justify-end flex-wrap items-center">
+{/*             <ul className="flex grow justify-end flex-wrap items-center">
               <li>
                 <Link
                   href="/signin"
@@ -33,8 +33,8 @@ export default function Header() {
                   Sign ups
                 </Link>
               </li>
-            </ul>
-          </nav> */}
+            </ul> */}
+          </nav>
 
           <MobileMenu />
 
