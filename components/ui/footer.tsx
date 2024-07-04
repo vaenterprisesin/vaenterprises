@@ -20,10 +20,10 @@ export default function Footer() {
                    <Image className="w-8 h-8 rounded-full" src={Logo}  alt="VA Enterprises Logo" />
                 </Link>
               </div>
-              <div className="text-gray-600">Contact Us</div>
-              <div className="text-gray-400">Email:  info@vaenterprises.com</div>
-              <div className="text-gray-400">Phone: +1 666999000</div>
-              <div className="text-gray-400">Address:  808 W San Carlos St</div>
+              <div className="text-gray-200">Contact Us</div>
+              <div className="text-gray-600">Email:  info@vaenterprises.com</div>
+              <div className="text-gray-600">Phone: +1 666-999-0000</div>
+              <div className="text-gray-600">Address:  808 W San Carlos St</div>
             </div>
 
             {/* 2nd, 3rd and 4th blocks */}
