@@ -21,7 +21,7 @@ export default function Footer() {
                 </Link>
               </div>
               <div className="text-gray-200">Contact Us</div>
-              <div className="text-gray-600">Email:  info@vaenterprises.com</div>
+              <div className="text-gray-600">Email:  info@vaenterprises.in</div>
               <div className="text-gray-600">Phone: +1 666-999-0000</div>
               <div className="text-gray-600">Address:  808 W San Carlos St</div>
             </div>
@@ -138,7 +138,7 @@ export default function Footer() {
             </ul>
 
             {/* Copyrights note */}
-            <div className="text-gray-400 text-sm mr-4">&copy; vaenterprises.com All rights reserved.</div>
+            <div className="text-gray-400 text-sm mr-4">&copy; vaenterprises.in All rights reserved.</div>
 
           </div>
 
