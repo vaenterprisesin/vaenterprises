@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'Home - Open PRO',
-  description: 'Page description',
+  title: 'VA Enterprises',
+  description: 'Your trusted partner in Electrical, Mechanical, Plumbing, and Fire Safety solutions.',
 }
 
 import Hero from '@/components/hero'
