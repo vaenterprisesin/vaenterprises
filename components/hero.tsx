@@ -27,6 +27,7 @@ export default function Hero() {
             <h1 className="h1 mb-4" data-aos="fade-up">Welcome</h1>
             <h1 className="h1 mb-4" data-aos="fade-up">To </h1>
             <h1 className="h1 mb-4" data-aos="fade-up">V A Enterprises</h1>
+            <h1 className="h1 mb-4" data-aos="fade-up">Turning Vision Into Reality</h1>
             <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">Your trusted partner in Electrical, Mechanical, Plumbing, and Fire Safety solutions.</p>
             {/* <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
               <div data-aos="fade-up" data-aos-delay="400">
