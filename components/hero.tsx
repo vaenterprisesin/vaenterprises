@@ -39,7 +39,7 @@ export default function Hero() {
             </div> */}
           </div>
 
-          <ModalVideo
+{/*         <ModalVideo */}
             thumb={VideoThumb}
             thumbWidth={1024}
             thumbHeight={576}
