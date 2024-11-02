@@ -22,8 +22,8 @@ export default function Footer() {
               </div>
               <div className="text-gray-200">Contact Us</div>
               <div className="text-gray-600">Email:  info@vaenterprises.in</div>
-              <div className="text-gray-600">Phone: +1 666-999-0000</div>
-              <div className="text-gray-600">Address:  808 W San Carlos St</div>
+              <div className="text-gray-600">Phone: </div>
+              <div className="text-gray-600">Address:  Warasi Guda, Secunderabad, Hyedrabad, TS 500061, IN.</div>
             </div>
 
             {/* 2nd, 3rd and 4th blocks */}
